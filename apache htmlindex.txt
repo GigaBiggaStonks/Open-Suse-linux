@@ -1,0 +1,21 @@
+Dit is een voorbeeld voor in je "/srv/www/htdocs/index.html": <Je moet "index.HTML" aanmaken>
+
+
+<html>
+        <head>
+           <title>Welkom op mijn website</title>
+        </head>
+        <body>
+        <h1>Welkom!</h1>
+        <p>Dit is een voorbeeldpagina op mijn website.</p>
+        </body>
+</html>
+
+
+
+Ga naar "vi /etc/hosts"
+Voeg je ip address toe en dan je website naam met ".local" er achter.	
+
+
+voorbeeld: "192.168.1.214   Jemoedervriend.local"
+
